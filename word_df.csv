@@ -1,0 +1,81 @@
+,count,term,media_id,media_name
+0,7817,hong,1,New York Times
+1,7669,kong,1,New York Times
+2,5611,protesters,1,New York Times
+3,2164,china,1,New York Times
+4,1592,police,1,New York Times
+5,1363,chinese,1,New York Times
+6,1271,government,1,New York Times
+7,1120,beijing,1,New York Times
+8,1094,people,1,New York Times
+9,1061,city,1,New York Times
+10,924,demonstrations,1,New York Times
+11,909,law,1,New York Times
+12,857,movement,1,New York Times
+13,719,pro-democracy,1,New York Times
+14,719,mainland,1,New York Times
+15,686,new,1,New York Times
+16,680,human,1,New York Times
+17,667,officers,1,New York Times
+18,632,security,1,New York Times
+19,599,national,1,New York Times
+0,9172,hong,39590,South China Morning Post
+1,9121,kong,39590,South China Morning Post
+2,6812,protests,39590,South China Morning Post
+3,2202,police,39590,South China Morning Post
+4,1697,city,39590,South China Morning Post
+5,1211,anti-government,39590,South China Morning Post
+6,1117,government,39590,South China Morning Post
+7,1076,china,39590,South China Morning Post
+8,896,bill,39590,South China Morning Post
+9,789,extradition,39590,South China Morning Post
+10,777,months,39590,South China Morning Post
+11,737,people,39590,South China Morning Post
+12,716,unrest,39590,South China Morning Post
+13,707,law,39590,South China Morning Post
+14,677,officers,39590,South China Morning Post
+15,617,day,39590,South China Morning Post
+16,612,chinese,39590,South China Morning Post
+17,602,students,39590,South China Morning Post
+18,554,beijing,39590,South China Morning Post
+19,549,support,39590,South China Morning Post
+0,4581,hong,1094,BBC
+1,4456,kong,1094,BBC
+2,3132,protests,1094,BBC
+3,1636,image,1094,BBC
+4,1300,china,1094,BBC
+5,821,police,1094,BBC
+6,789,law,1094,BBC
+7,694,copyright,1094,BBC
+8,619,people,1094,BBC
+9,533,government,1094,BBC
+10,517,chinese,1094,BBC
+11,504,media,1094,BBC
+12,491,pro-democracy,1094,BBC
+13,401,security,1094,BBC
+14,378,bill,1094,BBC
+15,374,demonstrations,1094,BBC
+16,373,mainland,1094,BBC
+17,364,beijing,1094,BBC
+18,344,extradition,1094,BBC
+19,342,rights,1094,BBC
+0,3930,hong,65173,Peoples Daily
+1,3912,kong,65173,Peoples Daily
+2,771,china,65173,Peoples Daily
+3,648,law,65173,Peoples Daily
+4,639,national,65173,Peoples Daily
+5,563,people,65173,Peoples Daily
+6,531,government,65173,Peoples Daily
+7,506,hksar,65173,Peoples Daily
+8,504,security,65173,Peoples Daily
+9,489,protesters,65173,Peoples Daily
+10,466,police,65173,Peoples Daily
+11,423,country,65173,Peoples Daily
+12,370,rights,65173,Peoples Daily
+13,347,violence,65173,Peoples Daily
+14,331,affairs,65173,Peoples Daily
+15,319,region,65173,Peoples Daily
+16,305,international,65173,Peoples Daily
+17,302,chinese,65173,Peoples Daily
+18,285,special,65173,Peoples Daily
+19,278,administrative,65173,Peoples Daily
